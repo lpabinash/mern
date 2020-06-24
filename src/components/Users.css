@@ -1,0 +1,24 @@
+/* .data{
+    width:100vw;
+}
+
+.main td{
+    
+    width:150px;
+    border:2px solid;
+    word-wrap: break-word;
+    padding: 0%;
+    text-overflow: ellipsis;
+}
+
+.courseid{
+    background-color: brown;
+    width:10px;
+} */
+
+tr {border-collapse:collapse; table-layout:fixed; width:310px;}
+td {text-align: center; width:150px; word-break:break-all; padding-left: 10px;}
+th {text-align: center; width:150px; word-break:break-all;}
+
+td a{color:teal;}
+
